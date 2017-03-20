@@ -1,19 +1,69 @@
-<!doctype html>
-<html>
-  <head>
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta charset="utf-8">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-    <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= current_page.data.title || "Middleman" %></title>
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title><%= current_page.data.title + " | " rescue "" %>Telling Stories with Data</title>
+  <meta name="author" content="David Newbury">
 
-    <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "site" %>
-  </head>
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <body class="<%= page_classes %>">
-    <%= yield %>
-  </body>
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="/stylesheets/normalize.css">
+  <link rel="stylesheet" href="/stylesheets/skeleton.css">
+  <link rel="stylesheet" href="/stylesheets/base.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/monokai-sublime.min.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<!--   <link rel="icon" type="image/png" href="../globals/favicon.png">
+ -->
+</head>
+<body>
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container">
+    <header class="row">
+        <div class="twelve columns" style="margin-top: 3%">
+          <h1><%=current_page.data.header %></h1>
+          <%=Tilt['markdown'].new {current_page.data.subhead }.render %>
+        </div>
+    </header>
+
+    <div class="row">
+
+      <div class="offset-by-two eight columns">
+        <%= yield %>
+      </div>
+    </div>
+  </div>
+
+  <footer class="secondary footer page-footer">
+    <div class="container">
+      <div class="row">
+        <div class="offset-by-three six columns" style="margin-top: 3%">
+          <p>
+            Telling Stories with Data (94-870) 
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Javascript
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+  
+  <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
 </html>
