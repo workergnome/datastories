@@ -16,3 +16,5 @@ Data visualization is the art of understanding how humans understand our visual 
 
 * [Syllabus](/syllabus.html)
 * [Course Schedule](/schedule.html)
+* [Piazza Site](http://piazza.com/cmu/spring2017/94870/home)
+* [Piazza sign-up Link](http://piazza.com/cmu/spring2017/94870)
