@@ -17,7 +17,7 @@ You can see some of my projects for school and and for fun [here](http://www.lau
 If you like this class and want to learn more or use it more, I encourage you to check out Students for Urban Data Systems, [SUDS](http://suds-cmu.org/).
 We're a group that enjoys using data to tell stories for social good. Plus, great workshops, fun work nights, cool people.
 
-You can email me at lrenaud@andrew.cmu.edu, but I encourage you to use Piazza for questions or messages that the rest of the class might also benefit from.
+You can email me at <mailto:lrenaud@andrew.cmu.edu> , but I encourage you to use Piazza for questions or messages that the rest of the class might also benefit from.
 
 ### Office Hours
 
