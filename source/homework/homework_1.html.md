@@ -13,7 +13,7 @@ This chart should contain at least two series, and the viewer's attention should
 
 Each chart should be titled and all dimensions, axis, and legends should be appropriately labeled.  *(Note that not all visualizations require all of these features, but it should be possible for the viewer to understand what each feature of the chart is and what data it represents.)*
 
-When complete, please share the spreadsheet with <dnewbury@andrew.cmu.edu> and <lrenaud@andrew.cmu.edu> using the Google Sheets "Share" button, located in the top right of the interface.  When sharing, Google Sheets will allow you to "add a note".  Within that note, please provide a paragraph explaining:
+When complete, please share the spreadsheet with <david.newbury@gmail.com> and <lauren.renaud@gmail.com> using the Google Sheets "Share" button, located in the top right of the interface.  When sharing, Google Sheets will allow you to "add a note".  Within that note, please provide a paragraph explaining:
 
 * What story you are intending to tell to the visitor.
 * How you drew the viewer's attention to the the story.
