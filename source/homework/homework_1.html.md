@@ -3,7 +3,7 @@ title: Workshop Assignment #1
 header: Homework 1
 subhead: |
     Assignment: **Create a Google Sheets visualization about foods you like.**  
-    Due: **Monday, April 27th, 1:30pm Eastern**
+    Due: **Monday, March 27th, 1:30pm Eastern**
 ---
 
 
@@ -20,4 +20,4 @@ When complete, please share the spreadsheet with <dnewbury@andrew.cmu.edu> and <
 * Why you chose the colors you chose.
 * Why you chose the type of chart you chose.
 
-**This assignment is due Monday, April 27th, before class.  Please don't modify your spreasheet after submitting it.**
+**This assignment is due Monday, March 27th, before class.  Please don't modify your spreasheet after submitting it.**
