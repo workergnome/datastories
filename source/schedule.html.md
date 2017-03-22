@@ -33,7 +33,7 @@ We will explore the types of charts available, describe the differences between 
 
 **Technology Overview:** Google Charts.  
 **Readings:** Data Visualisation: Intro to Part D & Chapter 11 (p. 313-334), Chapter 6 (p. 152-160, 210-221. Skip the grey section.)  
-**Homework:** Visualization Quiz (in-class), Google Charts Technology Project
+**Homework:** Visualization Quiz (in-class), [Google Charts Technology Project](/homework/homework_1.html)
 
 **Supplementary Material**
 
