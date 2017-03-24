@@ -21,13 +21,12 @@ You can email me at <mailto:lrenaud@andrew.cmu.edu> , but I encourage you to use
 
 ### Office Hours
 
-**This week** Friday March 24: 1:00-2:00 & Monday March 27: 10:00-11:00, both HBH Interview Room A007 F
+**This week**: Friday March 24: 1:00-2:00, HBH 1006 & Monday March 27: 10:00-11:00, HBH 2108
 
-Fridays 12:30 - 2:00
+Mondays 10:30-12:00, HBH 1006
 
-Mondays 10:30-12:00
+Fridays 12:30 - 2:00, HBH 2011
 
-HBH 1111
 
 ### Useful Links
 
