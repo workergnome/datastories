@@ -48,8 +48,13 @@ This class will dive deeper into our understanding of human perception.  Why and
 
 **Supplementary Material**  
 
-* <http://vrl.cs.brown.edu/color>
-* <http://www.visualcomplexity.com/vc/blog/?p=644>
+* [Colorgorical](http://vrl.cs.brown.edu/color)
+* [Information Visualization Manifesto](http://www.visualcomplexity.com/vc/blog/?p=644)
+* [Finding a Story in Data](https://datatherapy.org/activities/activity-finding-a-story-in-data/)
+* [Design Principles: Visual Perception And The Principles Of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/)
+* [ColorBrewer](http://colorbrewer2.org/)
+* [Subtleties of Color: Different Data, Different Colors](http://www.scribblelive.com/blog/2013/08/12/subtleties-of-color-different-types-of-data-require-different-color-schemes/)
+* [MPL Colormaps (useful color scales)](https://bids.github.io/colormap/)
 
 ### Class 4: Data as Raw Material (March 29th)
 
