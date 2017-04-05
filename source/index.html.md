@@ -47,6 +47,7 @@ Data visualization is the art of understanding how humans understand our visual 
 * [P5.js](http://[p5js.org]) A port of Processing for Javascript.
 * [Tableau Public](https://public.tableau.com) Tableau. Free.
 * [Carto](http://carto.com) A very nice mapping tool for geographic visualization.
+* [OpenRefine](http://openrefine.org) A powerful tool for working with messy data.
 
 
 **Blogs**
